@@ -2,5 +2,4 @@ streamlit
 pulp
 pandas
 circlify
-random
 matplotlib
